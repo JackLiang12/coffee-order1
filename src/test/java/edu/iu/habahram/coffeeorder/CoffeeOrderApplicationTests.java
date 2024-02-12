@@ -8,6 +8,7 @@ class CoffeeOrderApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
